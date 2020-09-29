@@ -1,0 +1,711 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"depósito"
+			],
+			[
+				"para",
+				"parametros"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"re",
+				"requests"
+			],
+			[
+				"in",
+				"invalido"
+			],
+			[
+				"can",
+				"cantidades"
+			],
+			[
+				"get",
+				"get_price"
+			],
+			[
+				"_",
+				"_url"
+			],
+			[
+				"c",
+				"criptos"
+			],
+			[
+				"canti",
+				"cantidad2"
+			],
+			[
+				"variable",
+				"variable2"
+			],
+			[
+				"cri",
+				"cripto1cant"
+			],
+			[
+				"crip",
+				"cripto3cant"
+			],
+			[
+				"cripto",
+				"cripto2cant"
+			],
+			[
+				"cr",
+				"cripto1nom"
+			],
+			[
+				"Das",
+				"DASH"
+			],
+			[
+				"to",
+				"total_final"
+			],
+			[
+				"total",
+				"totalUSD"
+			],
+			[
+				"nom",
+				"criptomoneda_nombre"
+			],
+			[
+				"ganan",
+				"ganancia_final"
+			],
+			[
+				"gana",
+				"ganancia_final"
+			],
+			[
+				"ga",
+				"ganancia_diaria"
+			],
+			[
+				"crit",
+				"criptomoneda_nombre"
+			],
+			[
+				"tota",
+				"totalUSD"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"calc",
+				"calcSupCorp"
+			],
+			[
+				"fecha",
+				"fechanacimiento"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"insert",
+				"insertx"
+			],
+			[
+				"ins",
+				"insertx"
+			],
+			[
+				"ra",
+				"randomValueFromArray"
+			],
+			[
+				"sto",
+				"storyText"
+			],
+			[
+				"inse",
+				"insertz"
+			],
+			[
+				"s",
+				"special"
+			],
+			[
+				"t",
+				"th\tTag"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"flex",
+				"inline-flex\tdisplay"
+			],
+			[
+				"edad",
+				"edadDias"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"df",
+				"df2"
+			],
+			[
+				"demo",
+				"demofecha2"
+			],
+			[
+				"fechana",
+				"fechanacimiento"
+			],
+			[
+				"fec",
+				"fechaactual"
+			],
+			[
+				"fech",
+				"fechanacimiento"
+			],
+			[
+				"Fe",
+				"fechaNacimiento"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"i",
+				"innerHTML"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"fe",
+				"fechaNacimiento"
+			],
+			[
+				"spe",
+				"step\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"dat",
+				"datalist\tTag"
+			],
+			[
+				"po",
+				"po"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"borderc",
+				"border-collapse\tproperty"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"border",
+				"border-bottom-width\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"bor",
+				"border-style\tproperty"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"A",
+				"Anexos"
+			],
+			[
+				"Reg",
+				"RegistroCambios"
+			],
+			[
+				"M",
+				"Metodologias"
+			],
+			[
+				"Do",
+				"DocumentosReferencia"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"backgroun",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"do",
+				"double\tborder-style"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"fot",
+				"font-family\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"ca",
+				"caption\tTag"
+			],
+			[
+				"m",
+				"meta\tTag"
+			],
+			[
+				"pro",
+				"promedio"
+			],
+			[
+				"not",
+				"notasLenguaje"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"letr",
+				"letrasincognitas"
+			],
+			[
+				"letra",
+				"letraingresada"
+			],
+			[
+				"pala",
+				"palabraincognita"
+			],
+			[
+				"pa",
+				"palabraincognita"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "proyectofinal.md",
+			"settings":
+			{
+				"buffer_size": 3136,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "proyectofinalpython.py",
+			"settings":
+			{
+				"buffer_size": 1954,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"PackageDev: New Syntax Definition"
+			],
+			[
+				"",
+				"PackageDev: New Syntax Definition"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 63.0,
+		"history":
+		[
+			"keyword.control.example-c",
+			"curso.length",
+			"curso"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/proyectofinal.md",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/Proyecto final/proyectofinalpython.py",
+		"/Users/juansepulveda/Downloads/solucion 2/project/untitled.html",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/ClasesyherenciaPython.py",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/proyectofinalpython.py",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/manejoarchivos.py",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/tiposestructurados.py",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/criptomonedas.py",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/ejemplo_clase_herencia.py",
+		"/Users/juansepulveda/Downloads/PYT18S_C1U4L5_SolucionEjercicio1_Archivos_Python_V1.py",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/dictcripto.txt",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/ejerciciodiccionario.py",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/ejercicioconjuntos.py",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/ejemplolistas.py",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/Ejercicio ",
+		"/Users/juansepulveda/Library/Application Support/Sublime Text 3/Packages/User/pseudocode.sublime-syntax",
+		"/Users/juansepulveda/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/ejerciciofunciones1.py",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/ejercicio2iteraciones.py",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/ejercicioiteraciones1.py",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/ejercicio2condicionales.py",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/condicionales1.py",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/funcionesmodulos2.py",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/LecturaEscritura.py",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/Ejercicio Declaracion de Variables3.py",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/Ejercicio Declaracion de Variables2",
+		"/Users/juansepulveda/Documents/Proyectos personales/NextU/JavaScript/Modulo jQuery/Actividad de codigo/Actividad1/index.html",
+		"/Users/juansepulveda/Documents/Proyectos personales/Tejido/botin mamá.txt",
+		"/Users/juansepulveda/web-parenteral-nutrition/js/myscripts.js",
+		"/Users/juansepulveda/web-parenteral-nutrition/index.html",
+		"/Users/juansepulveda/Documents/radios_los_angeles.md",
+		"/Users/juansepulveda/MDN-exercises/mdnjavascript/sillystory/main.js",
+		"/Users/juansepulveda/MDN-exercises/mdnjavascript/js/primerscript.js",
+		"/Users/juansepulveda/MDN-exercises/mdnjavascript/index.html",
+		"/Users/juansepulveda/MDN-exercises/mdnjavascript/js/arrays.js",
+		"/Users/juansepulveda/MDN-exercises/mdnjavascript/js/trainstations.js",
+		"/Users/juansepulveda/MDN-exercises/mdnjavascript/js/cities.js",
+		"/Users/juansepulveda/MDN-exercises/mdnjavascript/css/style.css",
+		"/Users/juansepulveda/MDN-exercises/CSS/index.html",
+		"/Users/juansepulveda/MDN-exercises/CSS/styles.css",
+		"/Users/juansepulveda/web-parenteral-nutrition/css/style1.css",
+		"/Users/juansepulveda/web-parenteral-nutrition/.gitignore",
+		"/Users/juansepulveda/Documents/Proyectos Hospital/Nutrición Parenteral/web version/myscripts.js",
+		"/Users/juansepulveda/web-parenteral-nutrition/variables.html",
+		"/Users/juansepulveda/Documents/Proyectos Hospital/Nutrición Parenteral/web version/NPCAVRRweb.sublime-project",
+		"/Users/juansepulveda/Documents/Proyectos Hospital/Nutrición Parenteral/web version/index.html",
+		"/Users/juansepulveda/Desktop/holamundo.py",
+		"/Users/juansepulveda/Documents/Proyectos personales/Jovenes Programadores/Protocolo TRRC/TRRC_protocolo.sublime-project",
+		"/Users/juansepulveda/Documents/Proyectos personales/Jovenes Programadores/Protocolo TRRC/css/estilotabla.css",
+		"/Users/juansepulveda/Documents/Proyectos personales/Jovenes Programadores/Protocolo TRRC/html/RecomendacionAccesoVasc.html",
+		"/Users/juansepulveda/Documents/Proyectos personales/Jovenes Programadores/Protocolo TRRC/Protocolo_TRRC_UCIP.html",
+		"/Users/juansepulveda/Documents/Proyectos personales/Jovenes Programadores/Protocolo TRRC/html/metodologia.html",
+		"/Users/juansepulveda/Documents/Proyectos personales/Jovenes Programadores/Protocolo TRRC/html/recursos.html",
+		"/Users/juansepulveda/Documents/Proyectos personales/Jovenes Programadores/Protocolo TRRC/html/anexos.html",
+		"/Users/juansepulveda/Documents/Proyectos personales/Jovenes Programadores/Protocolo TRRC/RecomendacionAccesoVasc.html",
+		"/Users/juansepulveda/Documents/Proyectos personales/Jovenes Programadores/Protocolo TRRC/html/regcambios.html",
+		"/Users/juansepulveda/Documents/Proyectos personales/Jovenes Programadores/Protocolo TRRC/html/objetivos.html",
+		"/Users/juansepulveda/Documents/Proyectos personales/Jovenes Programadores/Protocolo TRRC/css/estiloprotocolo.css",
+		"/Users/juansepulveda/Documents/Proyectos personales/Jovenes Programadores/Protocolo TRRC/html/alcance.html",
+		"/Users/juansepulveda/Documents/Proyectos personales/Jovenes Programadores/Protocolo TRRC/html/responsabilidades.html",
+		"/Users/juansepulveda/Documents/Proyectos personales/Jovenes Programadores/Protocolo TRRC/html/definiciones.html",
+		"/Users/juansepulveda/Documents/Proyectos personales/Jovenes Programadores/Protocolo TRRC/html/docref.html",
+		"/Users/juansepulveda/Documents/Proyectos personales/Mozilla Firefox Developer/Página de prueba/basic.css",
+		"/Users/juansepulveda/Documents/Proyectos personales/Mozilla Firefox Developer/Página de prueba/muebleria.html",
+		"/Users/juansepulveda/Documents/Proyectos personales/Mozilla Firefox Developer/Página de prueba/index.html",
+		"/Users/juansepulveda/Documents/Formatos SAC/plantillasvarias.html",
+		"/Users/juansepulveda/Documents/Formatos SAC/ResumenExamenes/datoscrudosdeexamenes.txt",
+		"/Users/juansepulveda/Documents/Formatos SAC/Evolucion medica.html",
+		"/Users/juansepulveda/Documents/Formatos SAC/ResumenExamenes/resumenform.html",
+		"/Users/juansepulveda/Documents/Formatos SAC/untitled.html",
+		"/Users/juansepulveda/Documents/Formatos SAC/IngresoMedico/ingreso_ucip_home.html",
+		"/Users/juansepulveda/Documents/Jovenes Programadores/JavaScript 1/Proyectos/curso.js",
+		"/Users/juansepulveda/Documents/Jovenes Programadores/JavaScript 2/Programas/JQUERYcambiatitulo.html",
+		"/Users/juansepulveda/Downloads/PR1JS2S2.html",
+		"/Users/juansepulveda/Desktop/Ingreso UCI Pediatrica.html",
+		"/Users/juansepulveda/Downloads/PR3JS2S1 (1).zip",
+		"/Users/juansepulveda/Documents/Jovenes Programadores/JavaScript 1/Programas/Ahorcado.html",
+		"/Users/juansepulveda/Documents/Jovenes Programadores/JavaScript 1/Programas/untitled.js",
+		"/Users/juansepulveda/Documents/Jovenes Programadores/JavaScript 1/Programas/For.html",
+		"/Users/juansepulveda/Documents/Jovenes Programadores/JavaScript 1/Programas/ifthenelse.html",
+		"/Users/juansepulveda/Documents/Jovenes Programadores/JavaScript 1/Programas/nombreyapellido.html",
+		"/Users/juansepulveda/Documents/Jovenes Programadores/JavaScript 1/Programas/con_conexiones.html",
+		"/Users/juansepulveda/Documents/Jovenes Programadores/JavaScript 1/Programas/primerapagina.html",
+		"/Users/juansepulveda/Downloads/sublimetext_spanish-master 2/README.md",
+		"/Users/juansepulveda/Downloads/sublimetext_spanish-master 2/Default/Side Bar Mount Point.sublime-menu",
+		"/Users/juansepulveda/Desktop/index1.html",
+		"/Users/juansepulveda/Desktop/untitled.html",
+		"/Users/juansepulveda/Downloads/LedControlMS/LedControlMS.h",
+		"/Users/juansepulveda/Downloads/LED/LED.h",
+		"/private/var/folders/54/ns8by9591qg_qzqcn672_vbr0000gn/T/com.microsoft.Excel/Reparar resultado para Registro factores de riesgo IAAS modificado 2018 UCIPED0.xml"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "proyectofinal.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Naomi/syntaxes/naomi.md1.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "proyectofinalpython.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1954,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pythonfinal.sublime-project",
+	"replace":
+	{
+		"height": 71.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
