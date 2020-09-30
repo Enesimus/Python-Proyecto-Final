@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"def",
+				"def\tFunction"
+			],
+			[
 				"de",
 				"depósito"
 			],
@@ -363,24 +367,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "proyectofinal.md",
-			"settings":
-			{
-				"buffer_size": 3136,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "proyectofinalpython.py",
-			"settings":
-			{
-				"buffer_size": 1954,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -425,6 +411,7 @@
 	},
 	"file_history":
 	[
+		"/Users/juansepulveda/Documents/GitHub/Python-Proyecto-Final/proyectofinal.md",
 		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/proyectofinal.md",
 		"/Users/juansepulveda/Documents/Proyectos personales/NextU/Python/Proyecto final/proyectofinalpython.py",
 		"/Users/juansepulveda/Downloads/solucion 2/project/untitled.html",
@@ -549,73 +536,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "proyectofinal.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3136,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Naomi/syntaxes/naomi.md1.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 1,
-					"file": "proyectofinalpython.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1954,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -636,18 +558,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -695,14 +610,14 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 182.0,
 	"status_bar_visible": true,
 	"template_settings":
